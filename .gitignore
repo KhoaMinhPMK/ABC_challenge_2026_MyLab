@@ -1,0 +1,36 @@
+# Data & binaries
+ABC2026 Sozolab Challenge/Dataset/
+*.zip
+*.csv
+*.parquet
+*.pkl
+*.h5
+*.pt
+*.onnx
+*.bin
+
+# Python / notebooks
+__pycache__/
+.ipynb_checkpoints/
+*.log
+
+# LaTeX build artifacts
+*.aux
+*.out
+*.toc
+*.synctex*
+_minted*/
+
+# Editors / IDE
+.vscode/
+.idea/
+.DS_Store
+.cursor/
+.agent/
+memory/
+note/
+.github/
+
+# Misc
+*.tmp
+*.bak
